@@ -1,4 +1,4 @@
 # hello-world
 
 
-I've had tacos on the moon and find them far superior to Ear tacos
+I've had tacos on the moon and find them far superior to Earth tacos
